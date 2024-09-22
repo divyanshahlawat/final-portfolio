@@ -13,8 +13,8 @@ import {
   nodejs,
   mongodb,
 
-  StudyNotion,
-  Nextjs,
+  studynotion,
+  nextjs,
   healthcare,
   FusionCoreLabs,
 
@@ -91,7 +91,7 @@ const technologies = [
   },
   {
     name: "Next JS",
-    icon: Nextjs,
+    icon: nexttjs,
   },
   // {
   //   name: "git",
@@ -261,7 +261,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: StudyNotion,
+    image: studynotion,
     source_code_link: "https://github.com/",
   },
 ];

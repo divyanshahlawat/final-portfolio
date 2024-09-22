@@ -28,7 +28,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import healthcare from "./healthcare.png";
 import iphone from "./iphone.png";
-import StudyNotion from "./StudyNotion.png";
+import studynotion from "./studynotion.png";
 
 export {
   logo,
@@ -53,11 +53,11 @@ export {
   healthcare,
   typescript,
   threejs,
-  Nextjs,
+  nextjs,
   FusionCoreLabs,
   iphone,
   carrent,
   jobit,
-  StudyNotion,
+  studynotion,
   tripguide,
 };
