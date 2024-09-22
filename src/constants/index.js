@@ -91,7 +91,7 @@ const technologies = [
   },
   {
     name: "Next JS",
-    icon: nexttjs,
+    icon: nextjs,
   },
   // {
   //   name: "git",
