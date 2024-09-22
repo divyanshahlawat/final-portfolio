@@ -20,7 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import Nextjs from "./tech/Nextjs.png";
+import nextjs from "./tech/nextjs.png";
 
 import FusionCoreLabs from "./company/FusionCoreLabs.png";
 import carrent from "./carrent.png";
