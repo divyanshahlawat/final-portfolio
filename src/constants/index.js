@@ -12,16 +12,12 @@ import {
   tailwind,
   nodejs,
   mongodb,
-  git,
-  figma,
+
   StudyNotion,
-  NextJs,
+  Nextjs,
   healthcare,
   FusionCoreLabs,
-  carrent,
-  jobit,
-  tripguide,
-  threejs,
+
   iphone
 } from "../assets";
 
@@ -95,7 +91,7 @@ const technologies = [
   },
   {
     name: "Next JS",
-    icon: NextJs,
+    icon: Nextjs,
   },
   // {
   //   name: "git",

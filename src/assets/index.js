@@ -20,7 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import NextJs from "./tech/Nextjs.png";
+import Nextjs from "./tech/Nextjs.png";
 
 import FusionCoreLabs from "./company/FusionCoreLabs.png";
 import carrent from "./carrent.png";
@@ -53,7 +53,7 @@ export {
   healthcare,
   typescript,
   threejs,
-  NextJs,
+  Nextjs,
   FusionCoreLabs,
   iphone,
   carrent,
